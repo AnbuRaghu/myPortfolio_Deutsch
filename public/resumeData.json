@@ -5,9 +5,9 @@
     "occupation": "Full stack web Entwickler (MERN/MEAN Stack)",
     "description": "Suchen Sie einen Junior Webentwickler? Dann sind Sie hier richtig ",
     "image": "profilepic1.jpg",
-    "bio": "Hallo,ich bin Anbalagan Amirthalingam.Auf meiner Reise wurde mir klar,dass meine Leidenschaft in der Webentwicklung besteht.Mit dieser Leidenschaft habe ich im Rahmen meines Lernens viele der Klone berühmter Websites wie Facebook,Linked In,Netflix mithilfe von ReactJs erstellt.Außerdem habe ich einige weitere Single Page Application erstellt,die Sie in meinem 'Works' bereich anzeigen können.Als Berufeinsteiger freue ich mich derzeit auf einen job als junior Webentwickler.Ich freue mich von Ihnen zu hören.",
+    "bio": "Hallo! ich bin Anbalagan Amirthalingam. Auf meiner Reise wurde mir klar, dass meine Leidenschaft in der Webentwicklung besteht. Mit dieser Leidenschaft habe ich im Rahmen meines Lernens viele der Klone berühmter Websites wie Facebook,Linked In,Netflix mithilfe von ReactJs erstellt. Außerdem habe ich einige weitere Single Page Application erstellt,die Sie in meinem 'Works' bereich anzeigen können. Als Berufeinsteiger freue ich mich derzeit auf einen job als junior Webentwickler. Ich freue mich von Ihnen zu hören.",
 
-    "contactmessage": "Get in touch with me ",
+    "contactmessage": "Nehmen Sie Kontakt mit mir auf.",
     "email": "anburaghu90@gmail.com",
     "phone": "+49 1776993752",
     "address": {
@@ -32,12 +32,12 @@
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Related Proficiency",
+    "skillmessage": "Meine programmierbezogenen Fähigkeiten",
     "education": [
       {
         "school": "Universität Jaffna - Sri Lanka",
         "degree": "Bachelor Abschluss- Übersetzung.",
-        "certified": "Full stack web developer master programme.",
+        "certified": "Full stack web developer master programm.",
         "school1": "Edureka coding Schule- India"
       }
     ],
@@ -61,16 +61,16 @@
       },
       {
         "name": "MongoDB",
-        "level": "70%"
+        "level": "75%"
       },
 
       {
-        "name": "Web Development",
+        "name": "Webentwicklung",
         "level": "90%"
       },
       {
         "name": "java ",
-        "level": "50%"
+        "level": "65%"
       }
     ]
   },

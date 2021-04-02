@@ -30,7 +30,7 @@ const Contact = ({ data }) => {
       <div className="row section-head">
         <div className="two columns header-col">
           <h1>
-            <span>nehmen Sie Kontakt mit mir auf.</span>
+            <span></span>
           </h1>
         </div>
 
@@ -117,7 +117,7 @@ const Contact = ({ data }) => {
 
         <aside className="four columns footer-widgets">
           <div className="widget widget_contact">
-            <h4>Adresse und Tel.</h4>
+            <h4>Adresse und Telefon.</h4>
             <p className="address">
               {`${contactName}.`}
               <br />
