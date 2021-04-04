@@ -9,7 +9,7 @@ const About = ({ data }) => {
     var zip = data.address.zip;
     var phone = data.phone;
     var email = data.email;
-    // var resumeDownload = "images/" + data.resumeDownload;
+    //  var resumeDownload ='https://www.hiration.com/dieu/resume/1041453@resume.edureka.co/pdf';
   }
 
   return (
@@ -47,8 +47,8 @@ const About = ({ data }) => {
               {/* <p>
                 <a href={resumeDownload} download="cv.pdf" className="button">
                   <i className="fa fa-download"></i>Download Resume
-                </a>
-              </p> */}
+                </a> 
+              </p>*/}
             </div>
           </div>
         </div>
