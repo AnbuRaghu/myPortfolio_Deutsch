@@ -44,6 +44,10 @@
 
     "skills": [
       {
+        "name": "Html/Css",
+        "level": "90%"
+      },
+      {
         "name": "JavaScript",
         "level": "90%"
       },
@@ -64,10 +68,7 @@
         "level": "75%"
       },
 
-      {
-        "name": "Webentwicklung",
-        "level": "90%"
-      },
+     
       {
         "name": "java ",
         "level": "65%"
